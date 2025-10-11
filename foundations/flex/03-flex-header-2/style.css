@@ -40,14 +40,8 @@ body {
   
 }
 
-.right-side-items{
+.right-side-items, .left-side-items{
   display: flex;
-  align-items: center;
-  gap: 16px;
-}
-
-.left-side-items{
-  display:flex;
   align-items: center;
   gap: 16px;
 }
